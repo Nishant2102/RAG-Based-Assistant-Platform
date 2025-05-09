@@ -1,6 +1,8 @@
-streamlit
-langchain
-transformers
-sentence-transformers
-faiss-cpu
-torch
+streamlit==1.33.0
+langchain==0.1.13
+transformers[sentencepiece]==4.40.1
+sentence-transformers==2.6.1
+faiss-cpu==1.7.4
+torch==2.2.2
+scikit-learn==1.4.2
+protobuf==4.25.3
