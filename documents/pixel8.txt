@@ -1,0 +1,77 @@
+Google Pixel 8 
+The Google Pixel 8 is a flagship smartphone designed to deliver premium performance, advanced photography features, and an immersive display experience in a sleek, eco-conscious design. Available in multiple color options—Hazel, Mint, Obsidian, and Rose—the device offers users a choice that reflects their personal style. Its Full-screen Actua Display measures 6.2 inches diagonally with a 20:9 aspect ratio, delivering a tall, cinematic viewing experience perfect for multimedia, gaming, and everyday use.
+
+The Google Pixel 8 supports Bluetooth version 5.3.
+
+The OLED panel boasts a resolution of 1080 x 2400 pixels (428 PPI), ensuring crisp and vibrant visuals across its surface. It supports Smooth Display technology , offering adaptive refresh rates from 60Hz up to 120Hz , which enhances responsiveness and conserves battery life based on usage. The screen is protected by Corning® Gorilla® Glass Victus® , and includes always-on display features such as At a Glance and Now Playing , allowing users to view time-sensitive information without fully waking the device. HDR playback is supported with peak brightness reaching 2000 nits , and typical HDR brightness at 1400 nits , making it highly visible even under direct sunlight. Additional display capabilities include a 1,000,000:1 contrast ratio and full 24-bit color depth for accurate and rich color reproduction.
+
+Physically, the Pixel 8 measures approximately 5.9 inches in height (150.5 mm) , 2.8 inches in width (70.8 mm) , and 0.4 inches in thickness (8.9 mm) . It weighs around 187 grams (6.6 ounces) , striking a balance between a large display and comfortable one-handed usability.
+
+The phone’s 4575 mAh (typical) battery ensures long-lasting performance, with estimated 24-hour usage under normal conditions and up to 72 hours using Extreme Battery Saver mode , which limits functionality to essential services. Fast wired charging is supported at up to 30W using a compatible USB-C charger, enabling a 50% charge in about 30 minutes . Wireless charging is available at speeds up to 18W using the Pixel Stand , or 12W with standard Qi-certified pads . Additionally, the device supports Battery Share , allowing it to wirelessly power other compatible devices, although this feature significantly drains the Pixel’s own battery.
+
+Under the hood, the Pixel 8 is powered by the Google Tensor G3 chip , a custom SoC optimized for high performance and energy efficiency. It also integrates the Titan M2 security coprocessor , enhancing hardware-level security and secure boot architecture. The device comes with 8GB of LPDDR5X RAM and storage options of either 128GB or 256GB UFS 3.1 flash memory , though actual usable space will be less due to system software overhead.
+
+Security is a major focus of the Pixel 8, featuring a multi-layered approach that includes:
+
+Tensor Security Core
+Titan M2 security chip
+Trusty operating environment
+Users benefit from seven years of guaranteed OS updates, security patches, and Feature Drops — longer than most Android devices. Additional protections include anti-malware scanning, phishing detection, passkey support, automatic security checks, and granular privacy controls accessible via the Security and Privacy hub . Authentication methods include under-display fingerprint sensor , Face Unlock , and traditional PIN, pattern, or password-based access .
+
+The rear camera setup consists of a 50 MP wide-angle lens (f/1.68, 82° FoV) and a 12 MP ultrawide lens with autofocus and a wide 125.8° field of view . The main camera supports Super Res Zoom up to 8x , along with optical and electronic image stabilization , laser detect autofocus (LDAF) , and spectral/flicker sensors . Advanced computational photography features include:
+
+Night Sight
+Astrophotography
+Portrait Mode with Portrait Light
+Motion Mode
+Ultra HDR
+Magic Editor
+Best Take
+Magic Eraser
+Photo Unblur
+Macro Focus
+Locked Folder
+Panorama
+The front-facing camera is a 10.5 MP dual-pixel shooter with a fixed focus and a 95° ultrawide field of view , supporting features like Face Unblur and Night Sight selfies .
+
+For video recording, the Pixel 8 supports:
+
+4K at 24, 30, and 60 FPS on both front and rear cameras
+Slo-mo up to 240 FPS
+Timelapse with stabilization
+Audio Magic Eraser for improved audio clarity
+10-bit HDR recording
+Digital zoom up to 7x
+Support for HEVC (H.265) and AVC (H.264) codecs ensures compatibility with a wide range of media formats.
+Connectivity options are robust, including:
+
+Wi-Fi 7 (802.11be) with tri-band support (2.4GHz, 5GHz, and 6GHz )
+Bluetooth 5.3 with dual antennas for better signal quality
+NFC
+Google Cast
+Dual Band GNSS : GPS, GLONASS, Galileo, QZSS
+Carrier-specific LTE and 5G Sub-6GHz support , with some models also supporting 5G mmWave depending on carrier and region
+The phone uses a Dual SIM configuration , combining one Nano SIM slot with one eSIM , with network bands varying by model.
+
+Additional onboard sensors include:
+
+Ambient light sensor
+Proximity sensor
+Accelerometer
+Gyroscope
+Magnetometer
+Barometer
+It features a USB Type-C 3.2 port for data transfer and charging, along with physical volume buttons and a power key integrated with the fingerprint sensor.
+
+The Pixel 8 includes stereo speakers and three microphones , enhancing audio experiences with features like spatial audio , speech enhancement , wind noise reduction , and directional audio zoom . The device runs on a clean version of Android , receiving regular Google-designed updates to improve usability and maintain long-term security.
+
+In terms of sustainability, the Pixel 8 incorporates eco-friendly materials such as a matte aluminum frame made entirely from recycled content , with at least 18% recycled materials used overall. The back glass is scratch-resistant and includes a fingerprint-resistant coating . The device carries an IP68 rating for dust and water resistance, meaning it can survive accidental submersion, though not indefinitely or under pressure.
+
+The box includes:
+
+A 1-meter USB-C to USB-C cable (USB 2.0)
+A Quick Switch Adapter for iOS users
+A SIM tool
+Accessories like the Pixel Stand are sold separately. The device comes with a one-year warranty and is available through the Google Store , where users may explore financing options , trade-in programs , and extended protection plans .
+
+Overall, the Google Pixel 8 represents a well-rounded flagship smartphone that excels in performance, intelligent software, long-term security, advanced photography , and eco-conscious design , making it a compelling choice for users seeking a future-ready, privacy-focused mobile experience.

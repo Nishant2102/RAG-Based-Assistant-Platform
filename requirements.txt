@@ -1,0 +1,6 @@
+streamlit
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+torch
