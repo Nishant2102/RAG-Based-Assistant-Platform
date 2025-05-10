@@ -4,6 +4,16 @@ This project implements a Retrieval-Augmented Generation (RAG) system integrated
 
 ---
 
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f07a8163-0fd9-438c-8e02-9326e16327f0" alt="Screenshot 1" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0601e549-7904-43fc-8f0a-27088c077aef" alt="Screenshot 2" width="400"/></td>
+  </tr>
+</table>
+
+---
+
 ## Objective
 
 Design and implement a simple “knowledge assistant” that:
@@ -82,7 +92,6 @@ python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
-pip install faiss-cpu==1.7.4 --no-build-isolation --no-cache-dir
 python build_vectorstore.py
 streamlit run app.py
 ```
