@@ -1,10 +1,10 @@
-# 🧠 RAG-Powered Multi-Agent Knowledge Assistant
+# RAG-Powered Multi-Agent Knowledge Assistant
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system integrated with a simple agentic workflow. It dynamically chooses between tools like a calculator, dictionary, or a retrieval-based LLM QA pipeline to answer queries. The system is exposed via a minimal **Streamlit** web interface.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Design and implement a simple “knowledge assistant” that:
 
@@ -14,7 +14,7 @@ Design and implement a simple “knowledge assistant” that:
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 .
 ├── app.py # Streamlit app interface
