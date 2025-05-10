@@ -8,7 +8,8 @@ from transformers import pipeline, T5Tokenizer, T5ForConditionalGeneration
 from langchain.docstore.document import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import FAISS
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
+
 
 # ---------- CONFIG ---------- #
 st.set_page_config(page_title="RAG Multi-Agent Assistant")
