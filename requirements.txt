@@ -1,10 +1,6 @@
 streamlit
 langchain
 langchain-community
-transformers[sentencepiece]
 sentence-transformers
+sentencepiece
 faiss-cpu
-torch
-scikit-learn
-protobuf
-
