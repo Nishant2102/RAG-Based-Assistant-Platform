@@ -14,7 +14,7 @@ def load_documents_from_folder(folder_path):
                 docs.append(Document(page_content=text, metadata={"source": filename}))
     return docs
 
-folder_path = "/home/shadow-monarch/Documents/Jupyter/Intern_project/documents"
+folder_path = "documents"
 documents = load_documents_from_folder(folder_path)
 
 splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
