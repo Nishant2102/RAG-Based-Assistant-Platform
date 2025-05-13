@@ -62,7 +62,7 @@ def use_calculator(query):
         return f"Error evaluating: `{expr}` — {e}"
 
 def define_term(term):
-    return f"Definition of '{term}' (stubbed): [Use a dictionary API here]"
+    return f"Definition of '{term}' (stubbed): [I have to add an dictionary API here later but not now for this model.]"
 
 # QA Model
 qa_model_name = "valhalla/t5-base-qa-qg-hl"
