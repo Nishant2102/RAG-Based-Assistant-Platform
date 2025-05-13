@@ -14,6 +14,16 @@ with open("vectorstore.pkl", "rb") as f:
 
 retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
+def extract_math_expression(query):
+    matches = re.findall(r"[\d\.\+\-\*/\(\)\s]+", query)
+    
+    for match in matches:
+        cleaned = match.strip()
+    
+        if cleaned and re.fullmatch(r"[0-9\.\+\-\*/\(\)\s]+", cleaned):
+            return cleaned
+    return None
+
 def route_query(query):
    
     expr = extract_math_expression(query)
@@ -39,18 +49,6 @@ def number_with_theory(query, retriever):
     result = qa_pipeline(prompt, max_length=256, do_sample=False)[0]["generated_text"]
     return result, docs
 
-
-
-
-def extract_math_expression(query):
-    matches = re.findall(r"[\d\.\+\-\*/\(\)\s]+", query)
-    
-    for match in matches:
-        cleaned = match.strip()
-    
-        if cleaned and re.fullmatch(r"[0-9\.\+\-\*/\(\)\s]+", cleaned):
-            return cleaned
-    return None
 
 def use_calculator(query):
     expr = extract_math_expression(query)
